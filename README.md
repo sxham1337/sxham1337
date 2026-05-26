@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/148293714010177536)](https://discord.com/users/148293714010177536)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1453588597625327758)](https://discord.com/users/1453588597625327758)
 
 # Hey, I'm Soham Samanta
 
