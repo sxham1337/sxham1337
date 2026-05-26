@@ -74,10 +74,7 @@ I build automation tools.
 
 ### Let's Connect
 
-If you're into automation, bots, or just want to chat — feel free to reach out!
-
-[![Portfolio](https://img.shields.io/badge/notherhacker.space-blueviolet?style=flat-square&logo=googlechrome&logoColor=white)](https://notherhacker.space/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/272096794031292416)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1453588597625327758)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sxham1337)
 
 </div>
