@@ -2,58 +2,17 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/148293714010177536)](https://discord.com/users/148293714010177536)
 
-# Hey, I'm Kumar Manas
+# Hey, I'm Soham Samanta
 
-### `Automation Enthusiast • Backend Developer`
+### `AI Engineer • Backend Developer`
 
-I build automation tools, Discord bots, and backend systems that are fast, scalable, and efficient.
+I build automation tools.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-notherhacker.space-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://notherhacker.space/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/g2C4jQq4en)
 [![GitHub](https://img.shields.io/badge/GitHub-sxham1337-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sxham1337)
 
-![Visitors](https://komarev.com/ghpvc/?username=Itzyourhacker&color=blueviolet&style=flat-square&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=sxham1337&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### KryptonBot
-An advanced Discord security bot trusted by **thousands of servers** worldwide.  
-Real-time protection, **400+ commands**, and zero compromises.
-
-- Anti-Nuke Protection  
-- Smart Moderation & Spam Detection  
-- High-Quality Music Playback  
-- Lightning Fast Responses  
-
-[![Add to Server](https://img.shields.io/badge/Add_to_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=906085578909548554&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2Fkryptonbot&integration_type=0&scope=bot)
-[![Website](https://img.shields.io/badge/Website-kryptonbot.in-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kryptonbot.in/)
-
-</td>
-<td width="50%">
-
-### CyborG Solver
-High-performance **hCaptcha solving API** built for developers.  
-Lightning-fast solves with **95%+ success rate** and anti-detection.
-
-- Auto-Scaling Workers (up to 10 threads)  
-- Fresh HSW JS & Human-Like Patterns  
-- RESTful API with Key Auth  
-- Real-Time Performance Metrics  
-
-[![Website](https://img.shields.io/badge/Website-cybx.space-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cybx.space/)
-[![API Docs](https://img.shields.io/badge/API_Docs-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://cybx.space/documentation)
-
-</td>
-</tr>
-</table>
 
 ---
 
